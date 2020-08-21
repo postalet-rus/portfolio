@@ -265,14 +265,14 @@ body::-webkit-scrollbar {
 
 .input-name {
      margin-bottom: 17px;
-     background-image: url('../img/user-icon.svg');
+     background-image: url('../img/forms/contact/user-icon.svg');
      background-repeat: no-repeat;
      background-position: center left 20px;
 }
 
 .input-phone {
      margin-bottom: 17px;
-     background-image: url('../img/phone-icon.svg');
+     background-image: url('../img/forms/contact/phone-icon.svg');
      background-repeat: no-repeat;
      background-position: center left 20px;
 }
